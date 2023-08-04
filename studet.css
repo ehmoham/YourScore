@@ -1,0 +1,27 @@
+body{
+
+    background-color: rgb(139, 139, 212);
+
+}
+
+table {
+    margin-bottom: 20px;
+}
+
+table{
+    color: black;
+    background-color: white;
+    border: 2px solid ;
+    width: 100%;
+    text-align: center;
+}
+
+.mySocer {
+    width: 100%;
+    border: 2px solid ;
+}
+
+.mySocer::placeholder , input[ value = ''] {
+    text-align: center;
+}
+
